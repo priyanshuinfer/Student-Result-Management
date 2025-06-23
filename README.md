@@ -129,8 +129,8 @@ This project is licensed under the MIT License. See \`LICENSE\` file for full te
 ## Author & Contact
 
 Priyanshu Chaturvedi  
-- GitHub: https://github.com/your-username  
-- Email: your.email@example.com  
+- GitHub: https://github.com/priyanshuinfer
+- Email: iampriyanshu1102@gmail.com
 
 Feel free to reach out for feedback or suggestions.
 
